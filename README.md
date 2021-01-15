@@ -2,7 +2,7 @@
 
 ### Hello there...
 
-My name is Damien Palagi and I'm an independant mobile solution craftsman at [CreativApps](https://creativapps.dev), in Nice France.
+My name is Damien Palagi and I'm an independant Mobile Solution Craftsman at [CreativApps](https://creativapps.dev), in Nice France.
 
 ---
 
